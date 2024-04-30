@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Flipkart Suite">
+  <test name="Test Cases" verbose="2">
+   <classes>
+         <class name="demo.TestCases"/>
+   </classes>      
+  </test> 
+  
+   <!-- <test name="Test Case 2" verbose="2">
+      <classes>
+      <class name="qtriptest.tests.TestCase_02"/>
+      </classes>
+  </test>   -->
+</suite>
