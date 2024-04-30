@@ -1,0 +1,24 @@
+flow1 success
+Clicking action
+Click action success
+'Print title of product for rating <=4
+Tiles count0 ratings count 0
+End of testcase01
+start of testcase 02
+tc2 Flow1 is sucess
+'Print title of product for rating <=4
+Tiles count0 ratings count 0
+End of testcase02
+Start of testcae03
+tc2 Flow1 is sucess
+Clicking action
+ÌException occuredExpected condition failed: waiting for visibility of element located by By.xpath: //div[@class='_3879cV' and contains(text(),'4')] (tried for 10 second(s) with 500 milliseconds interval)
+6Build info: version: '4.14.0', revision: 'e5a96349ce'
+aSystem info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.2'
+5Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 124.0.6367.63, chrome: {chromedriverVersion: 124.0.6367.91 (51df0e5e17a8..., userDataDir: C:\Users\Userdpa\AppData\Lo...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52443}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:52443/devtoo..., se:cdpVersion: 124.0.6367.63, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+.Session ID: b2e62483f15415c9c73f11132fab4f38
+Click Failed
+Clicking action
+Click action success
+title 0 imgurl 0 review 0
